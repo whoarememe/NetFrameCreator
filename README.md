@@ -12,19 +12,19 @@
 
 需要root运行：
 
-![noroot](/home/ever/Workspace/网络帧构造器GUI/NetFrameCreator/imgs/noroot.png)
+![noroot](./imgs/noroot.png)
 
 用户自定义数据
 
-![main](/home/ever/Workspace/网络帧构造器GUI/NetFrameCreator/imgs/main.png)
+![main](./imgs/main.png)
 
 tcp
 
-![iptcp](/home/ever/Workspace/网络帧构造器GUI/NetFrameCreator/imgs/iptcp.png)
+![iptcp](./imgs/iptcp.png)
 
 arp
 
-![arp](/home/ever/Workspace/网络帧构造器GUI/NetFrameCreator/imgs/arp.png)
+![arp](./imgs/arp.png)
 
 等等等....
 
