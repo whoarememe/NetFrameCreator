@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Menu">
+        <file>Pic/Menu/Developer.ico</file>
+        <file>Pic/Menu/exit.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Pic/drop-down.ico</file>
+        <file>Pic/start.ico</file>
+        <file>Pic/start1.ico</file>
+        <file>Pic/stop.ico</file>
+        <file>Pic/stop2.ico</file>
+        <file>Pic/startBack.gif</file>
+        <file>Pic/startBack.jpg</file>
+    </qresource>
+</RCC>
